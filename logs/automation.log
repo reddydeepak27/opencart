@@ -36,3 +36,4 @@
 19:28:49.275 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******* Finished TC_001_AccountRegistrationTest *******
 19:28:54.418 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
 19:28:57.332 [main] INFO  testCases.TC_002_LoginTest -  Finished TC_002_LoginTest
+20:59:06.222 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
